@@ -1,0 +1,14 @@
+C:\Users\ПК\Desktop\Examples\New_Console\bin\Debug\net8.0\New_Console.exe
+C:\Users\ПК\Desktop\Examples\New_Console\bin\Debug\net8.0\New_Console.deps.json
+C:\Users\ПК\Desktop\Examples\New_Console\bin\Debug\net8.0\New_Console.runtimeconfig.json
+C:\Users\ПК\Desktop\Examples\New_Console\bin\Debug\net8.0\New_Console.dll
+C:\Users\ПК\Desktop\Examples\New_Console\bin\Debug\net8.0\New_Console.pdb
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\New_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\New_Console.AssemblyInfoInputs.cache
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\New_Console.AssemblyInfo.cs
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\New_Console.csproj.CoreCompileInputs.cache
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\New_Console.dll
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\refint\New_Console.dll
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\New_Console.pdb
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\New_Console.genruntimeconfig.cache
+C:\Users\ПК\Desktop\Examples\New_Console\obj\Debug\net8.0\ref\New_Console.dll
